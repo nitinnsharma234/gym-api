@@ -1,0 +1,19 @@
+{
+  "name": "gym-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nitinnsharma234/gym-api.git"
+  },
+  "author": "nitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinnsharma234/gym-api/issues"
+  },
+  "homepage": "https://github.com/nitinnsharma234/gym-api#readme"
+}
